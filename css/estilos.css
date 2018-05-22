@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    border-bottom: 1px solid #cecece;
+    padding: 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header .logo {
+    background: transparent url('../imagenes/logo.png') no-repeat 50% 50%;
+    height: 60px;
+}
+
+header nav a{
+    text-decoration: none;
+    margin: 6px 10px;
+    color: #659832;
+    font-weight: bold;
+}
+
+.contenido div {
+    border-bottom: 1px solid #cecece;
+    padding: 20px;
+}
+
+.vermas {
+    text-decoration: none;
+    background-color: #659832;
+    text-align:center;
+    color: #fff;
+    padding: 6px;
+}
+
+.contenido h1 {
+    text-align: center;
+    color: #659832;
+}
+
+footer {
+    background-color: #659832;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
